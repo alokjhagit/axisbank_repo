@@ -1,2 +1,3 @@
 uname=alok
 pwd=alok@123
+email=alok.cusat.58@gmail.com
