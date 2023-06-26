@@ -1,0 +1,2 @@
+uname=alok
+pwd=alok@123
